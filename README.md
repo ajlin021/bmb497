@@ -13,5 +13,5 @@ You can highlight as *italic*, **bold**, ~~strikethrough~~ types
 
 You can add images:
 
-![an image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cdc.gov%2Fcoronavirus%2F2019-ncov%2Fneed-extra-precautions%2Fpeople-at-higher-risk.html&psig=AOvVaw1hUJXcR3WM1ecuf4-G2wQf&ust=1585842555992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOipw4TKx-gCFQAAAAAdAAAAABAU)
-"Image by NY Times"
+![an image](https://www.nytimes.com/2020/04/01/world/coronavirus-news.html)
+> Image by NYTimes
