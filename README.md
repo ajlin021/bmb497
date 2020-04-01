@@ -15,3 +15,5 @@ You can add images:
 
 ![an image](https://static01.nyt.com/images/2020/04/01/world/01virus-briefing-topsub/merlin_171168390_ea4e489d-1708-4df6-8f22-9cd32a80cee4-jumbo.jpg?quality=90&auto=webp)
 > Image by NYTimes
+
+:mask:
