@@ -9,11 +9,10 @@ In response to this challenge, Ferretti et al. (2020) admitted that SARS-CoV-2 i
 
 ## References
 [Ferretti, L. et al. Quantifying SARS-CoV-2 transmission suggests epidemic control with digital contact tracing. Science (2020).](https://science.sciencemag.org/content/early/2020/03/30/science.abb6936)
+
 [Li, R. et al. Substantial undocumented infection facilitates the rapid dissemination of novel coronavirus (SARS-CoV2). Science (2020).](https://science.sciencemag.org/content/early/2020/03/24/science.abb3221.full)
+
 [Yan, R. et al. Structural basis for the recognition of the SARS-CoV-2 by full-length human ACE2. Science 367, 1444–1448 (2020).](https://science.sciencemag.org/content/367/6485/1444)
-
-
-You can highlight as *italic*, **bold**, ~~strikethrough~~ types
 
 ![an image](https://www.cdc.gov/coronavirus/2019-ncov/images/social/covid19-prevention-fb.png)
 > Image by CDC
